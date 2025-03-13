@@ -1,5 +1,14 @@
-# Analise-de-Dados
+                                                               # Análise de Dados
 
-Este repositório contém meus projetos de Análise de Dados, onde estou utilizando Python e Pandas para explorar, manipular e analisar dados. Atualmente, os projetos estão sendo desenvolvidos no Google Colaboratory, com planos de expandir para Jupyter Notebooks futuramente. 
+Bem-vindo ao meu repositório de **Análise de Dados**! Aqui você encontrará projetos desenvolvidos com **Python** e a biblioteca **Pandas** para explorar, manipular e analisar dados. Os projetos estão sendo realizados principalmente no **Google Colaboratory**, com planos de expandir para **Jupyter Notebooks** no futuro.
 
-O principal objetivo desses projetos é aprofundar meu conhecimento em Análise de Dados, aplicando as melhores práticas e explorando diferentes conjuntos de dados para encontrar insights valiosos. Nos projetos, busco trabalhar com limpeza e preparação de dados, análise exploratória de dados (EDA), visualizações de dados e modelagem e análise utilizando diferentes bibliotecas do Python.
+## Objetivo dos Projetos
+
+O foco principal dos projetos é aprofundar meus conhecimentos em **Análise de Dados**, aplicando as melhores práticas e explorando diferentes conjuntos de dados para gerar insights valiosos. Durante o desenvolvimento, abordo diversas etapas do processo de análise, como:
+
+- **Limpeza e preparação de dados**
+- **Análise exploratória de dados** (EDA)
+- **Visualizações de dados**
+- **Modelagem e análise de dados** utilizando bibliotecas do **Python**
+
+Esses projetos são uma oportunidade de aprender e aplicar técnicas de **análise de dados** em problemas do mundo real, ao mesmo tempo em que continuo aprimorando minhas habilidades na área.
