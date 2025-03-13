@@ -1,6 +1,6 @@
 # Análise de Dados
 
-Bem-vindo ao meu repositório de **Análise de Dados**! Aqui você encontrará projetos desenvolvidos com **Python** utilizando as biblioteca **Pandas e Plotly** para explorar, manipular e analisar dados. Os projetos estão sendo realizados principalmente no **Google Colaboratory** e **Jupyter Notebooks**.
+Bem-vindo ao meu repositório de **Análise de Dados**! Aqui você encontrará projetos desenvolvidos com **Python** utilizando as bibliotecas **Pandas e Plotly** para explorar, manipular e analisar dados. Os projetos estão sendo realizados principalmente no **Google Colaboratory** e **Jupyter Notebooks**.
 
 ## Objetivo dos Projetos
 
